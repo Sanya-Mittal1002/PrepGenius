@@ -38,7 +38,7 @@ connectDB();
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://prepgenius-frontend.onrender.com"
+  "https://prepgenius-h852.onrender.com"
 ];
 
 app.use(cors({
