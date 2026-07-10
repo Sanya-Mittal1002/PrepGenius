@@ -4,7 +4,7 @@ import socket from "../utils/socket";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
-const API = "https://prepgenius-backend-6jzn.onrender.com";
+const API = "https://prepgenius-backend-8c8i.onrender.com";
 
 const NotificationBell = () => {
   const [count, setCount] = useState(0);

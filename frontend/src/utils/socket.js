@@ -1,6 +1,6 @@
 import { io } from "socket.io-client";
 
-const socket = io("https://prepgenius-backend-6jzn.onrender.com", {
+const socket = io("https://prepgenius-backend-8c8i.onrender.com", {
   transports: ["websocket"],
 });
 

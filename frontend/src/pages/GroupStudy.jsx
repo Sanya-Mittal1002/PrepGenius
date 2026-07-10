@@ -10,7 +10,7 @@ import {
 } from "lucide-react";
 import toast from "react-hot-toast";
 
-const API = "https://prepgenius-backend-6jzn.onrender.com";
+const API = "https://prepgenius-backend-8c8i.onrender.com";
 
 const GroupStudy = () => {
   const [groupName, setGroupName] = useState("");
